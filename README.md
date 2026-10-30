@@ -53,3 +53,4 @@ Queues allow you to create reliable distributed background tasks - logic that ru
 #### JavaScript, TypeScript, and NodeJS queues
 
 - [BullMQ](https://github.com/taskforcesh/bullmq) - A message queue for NodeJS backed by redis
+- [BetterQueue](https://github.com/Saiop68/better-queue) - Distributed rate limiter and job queue for Node.js with Redis-backed state, cross-process priority and crash recovery.
